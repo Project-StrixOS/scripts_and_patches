@@ -1,0 +1,13 @@
+diff --git a/Makefile b/Makefile
+index 83e60578ab45..5df438d433b7 100644
+--- a/Makefile
++++ b/Makefile
+@@ -2,7 +2,7 @@
+ VERSION = 5
+ PATCHLEVEL = 15
+ SUBLEVEL = 184
+-EXTRAVERSION =
++EXTRAVERSION = -android13-8
+ NAME = Trick or Treat
+ 
+ # *DOCUMENTATION*
